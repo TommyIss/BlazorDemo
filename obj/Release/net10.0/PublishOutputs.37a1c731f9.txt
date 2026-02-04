@@ -1,0 +1,7 @@
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\publish\wwwroot\index.html
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\publish\release\web.config
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\publish\release\BlazorDemo.runtimeconfig.json
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\publish\release\BlazorDemo.staticwebassets.endpoints.json
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\publish\BlazorDemo.runtimeconfig.json
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\publish\dotnet.js
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\publish\web.config

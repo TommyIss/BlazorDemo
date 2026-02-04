@@ -206,9 +206,6 @@ G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\BlazorDemo.6evx5tc10k.wasm
-G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\BlazorDemo.44h2zj5iru.pdb
-G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\dotnet.06vqi4dyg1.js
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\blazor.webassembly.66stpp682q.js.gz
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.1l4onz0xjo.wasm.gz
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Components.nyb7ae3bsc.wasm.gz
@@ -416,9 +413,6 @@ G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\BlazorDemo.6evx5tc10k.wasm.gz
-G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\BlazorDemo.44h2zj5iru.pdb.gz
-G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\dotnet.06vqi4dyg1.js.gz
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\BlazorDemo.staticwebassets.runtime.json
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\BlazorDemo.staticwebassets.endpoints.json
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\BlazorDemo.dll
@@ -1098,9 +1092,6 @@ G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\compressed\6h7djtnb7h-{0}-tjcz0u77k5-tjcz0u77k5.gz
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\compressed\iofnreuiod-{0}-tptq2av103-tptq2av103.gz
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\compressed\m95zydwtav-{0}-lfu7j35m59-lfu7j35m59.gz
-G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\compressed\p339p9k1bq-{0}-6evx5tc10k-6evx5tc10k.gz
-G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\compressed\mjbjyzpllc-{0}-44h2zj5iru-44h2zj5iru.gz
-G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\compressed\owibubi7ys-{0}-06vqi4dyg1-06vqi4dyg1.gz
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\compressed\6k4mxe13xo-{0}-yj93fsjsqo-yj93fsjsqo.gz
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\staticwebassets.build.json
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\staticwebassets.build.json.cache
@@ -1112,3 +1103,16 @@ G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\refint\BlazorDemo.dll
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\BlazorDemo.pdb
 G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\ref\BlazorDemo.dll
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\BlazorDemo.994buqnpmr.wasm
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\BlazorDemo.a42ea6d3sp.pdb
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\dotnet.mjppqql8xt.js
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\BlazorDemo.994buqnpmr.wasm.gz
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\BlazorDemo.a42ea6d3sp.pdb.gz
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\wwwroot\_framework\dotnet.mjppqql8xt.js.gz
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\release\web.config
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\release\BlazorDemo.runtimeconfig.json
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\bin\Release\net10.0\release\BlazorDemo.staticwebassets.endpoints.json
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\BlazorDemo.sourcelink.json
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\compressed\p339p9k1bq-{0}-994buqnpmr-994buqnpmr.gz
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\compressed\mjbjyzpllc-{0}-a42ea6d3sp-a42ea6d3sp.gz
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\obj\Release\net10.0\compressed\owibubi7ys-{0}-mjppqql8xt-mjppqql8xt.gz
