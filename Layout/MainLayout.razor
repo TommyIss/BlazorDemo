@@ -1,0 +1,31 @@
+﻿@inherits LayoutComponentBase
+
+<!-- Header -->
+<header>
+    <!-- Logo -->
+    <img src="images/logo.svg" alt="Logo" id="logo">
+    <!-- Menyknapp för att öppna meny i mindre skärm -->
+    <button class="menu-btn open" id="open-menu">
+        <span class="menu-icon">
+            <span class="bars"></span>
+            <span class="bars"></span>
+            <span class="bars"></span>
+        </span>
+        <span class="menu-text">Meny</span>
+    </button>
+
+
+    <NavMenu />
+</header>
+
+<!-- Main -->
+<main>
+    <!-- Sidansinnehåll -->
+    @Body
+
+</main>
+
+<!-- Footer -->
+<footer>
+    <p>&copy; Copyright Tommy Issa, 2025</p>
+</footer>

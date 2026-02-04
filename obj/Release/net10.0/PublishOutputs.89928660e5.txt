@@ -1,0 +1,4 @@
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\release\wwwroot\index.html
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\release\BlazorDemo.runtimeconfig.json
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\release\dotnet.js
+G:\Andra år\DT191G-Webbutveckling med .NET\Moment1\demo\BlazorDemo\release\web.config

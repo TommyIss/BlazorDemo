@@ -1,0 +1,373 @@
+/* Färgar 
+header + footer: #BBC7A4
+Bakgrundfärg: #F2F5EA
+Linje färg för h1 och h2: #E75a7c
+Extra färg: #2C363F
+
+Typsnitt och storlek
+H1 - Roboto, 42px, bold
+H2 - Roboto, 36px, bold
+H3 - Roboto, 32px, bold
+H4 - Roboto, 26px, bold
+H5 - Roboto, 23px, bold
+H6 - Roboto, 20px, bold
+P - Roboto, 18px,
+*/
+/* Importera Google typsnitt */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;0,900;1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 1920px;
+    margin: auto;
+    font-family: "Roboto", Helvetica, sans-serif;
+    border: black solid 2px;
+}
+h1 {
+    font-size: 3em;
+    color: #E75a7c;
+}
+h2 {
+    font-size: 2.5em;
+    color: #E75a7c;
+}
+p, li, a {
+    font-size: 2em;
+    max-width: 60ch;
+    line-height: 1.5em;
+}
+header {
+    background-color: #BBC7A4;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 0;
+    justify-content: space-around;
+    padding: 1% 0;
+    align-items: center;
+    position: relative;
+    top: 0;
+    max-width: 1920px;
+    border: black solid 2px;
+}
+
+/* Logo */
+#logo {
+    width: 175px;
+    height: 70px;
+}
+
+/* Navigeringsmeny */
+.navlist {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+.navlist > li {
+    margin: 5%;
+}
+.navlist > li > a {
+    text-decoration: none;
+    color: #2C363F;
+    font-size: 20px;
+    font-weight: 700;
+    white-space: nowrap;
+    font-size: 1em;
+}
+.menu-btn {
+    display: none;
+}
+
+/* Main */
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    min-height: 500px;
+}
+.header-bild {
+    width: 100%;
+    height: 60vh;
+}
+
+/* Startsida */
+
+#products {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 3% 2%;
+}
+.pics-products {
+    width: 20%;
+}
+
+/* Genomskinliga bilden */
+.transparent-background {
+    background-color: #BBC7A4;
+    background-image: url('../images/fargstick.jpg');
+    background-size: cover;
+    background-position: center;
+
+
+    height: 70vh;
+    width: 100%;
+
+    background-blend-mode: overlay;
+    opacity: 2.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 4% 0;
+}
+
+.transparent-background > h2 {
+    color: white;
+    font-size: 2.5em;
+    text-shadow: 2px 2px black;
+}
+/* Reklam banner */
+#reklam-banner {
+    max-width: 80%;
+    height: auto;
+    margin: 1%;
+}
+
+/* Om mig-sida */
+.main-header {
+    margin: 2% 0;
+}
+.personal-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    margin-bottom: 2%;
+}
+
+#personal-pic {
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+    grid-row: 1 / 5;
+    grid-column: 1;
+    align-self: center;
+}
+#my-name {
+    grid-row: 1;
+    grid-column: 2;
+    align-self: end;
+}
+#about-me {
+    grid-row: 2;
+    grid-column: 2;
+    align-self: start;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#about-assignment {
+    grid-row: 3;
+    grid-column: 2;
+    align-self: end;
+}
+#summary {
+    grid-row: 4;
+    grid-column: 2;
+    align-self: start;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+/* Bildbehandling-sida */
+.under-header {
+    margin-top: 6%;
+    margin-bottom: 3%;
+}
+.images-expo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.images-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.pics {
+    width: 40%;
+}
+
+footer {
+    background-color: #BBC7A4;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0;
+    padding: 1% 0;
+}
+
+#blazor-error-ui, .loading-progress {
+    display: none;
+}
+
+/* Stillsättning för surfplattor / 1024px bred skärm eller mindre */
+@media only screen and (max-width: 1024px) {
+    
+    header {
+        justify-content: space-between;
+    }
+    #logo {
+        margin: 0 5%;
+    }
+    /* Navigeringsmeny */
+    .nav-menu {
+        display: none;
+        position: absolute;
+        right: 0;
+        top: 0;
+        background-color: #BBC7A4;
+        width: 60%;
+    }
+    .navlist {
+        flex-direction: column;
+        background-color: #BBC7A4;
+        align-items: center;
+        justify-content: space-evenly;
+        height: 75vh;
+    }
+    /* Öppna navigeringsmeny */
+    .open {
+        display: block;
+        position: absolute;
+        right: 1%;
+        top: 1%;
+
+    }
+    .menu-btn {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        padding: 1%;
+        border: black solid 1px;
+        background-color: #BBC7A4;
+    }
+    .bars {
+        display: block;
+        width: 20px;
+        height: 3px;
+        background-color: black;
+        margin: 5px 2px;
+    }
+    .menu-text {
+        margin: 0 2%;
+        color: black;
+        font-size: 24px;
+    }
+
+    .personal-section {
+        grid-template-columns: 1fr;
+
+    }
+
+    /* Stängmeny knapp */
+    .close {
+        right: 2%;
+        top: 2%;
+    }
+    .cross1 {
+        width: 25px;
+        transform: rotate(45deg);
+        position: relative;
+        top: 5px;
+    }
+    .cross2 {
+        width: 25px;
+        transform: rotate(135deg);
+        position: relative;
+        top: -3px;
+    }
+
+    #personal-pic {
+        grid-row: 1 ;
+        grid-column: 1;
+        
+    }
+    #my-name {
+        grid-row: 2;
+        grid-column: 1;
+    }
+    #about-me {
+        grid-row: 3;
+        grid-column: 1;
+    }
+    #about-assignment {
+        margin-top: 5%;
+        grid-row: 4;
+        grid-column: 1;
+    }
+    #summary {
+        grid-row: 5;
+        grid-column: 1;
+    }
+
+    /* Bildbehandling-sida */
+    .under-header {
+        margin-top: 6%;
+        margin-bottom: 3%;
+    }
+    .images-section {
+        flex-direction: column;
+        align-items: center;
+    }
+    .pics {
+        width: 80%;
+        margin: 4% 0;
+    }
+}
+
+
+/* Stillsättning för mobiltelefoner / 550px bred skärm eller mindre */
+@media only screen and (max-width: 550px) {
+    .header-bild {
+        height: 40vh;
+    }
+    .main-header {
+        font-size: 2.2em;
+    }
+    h2 {
+        font-size: 1.7em;
+    }
+    .transparent-background > h2 {
+        font-size: 2em;
+    }
+    p {
+        font-size: 1.5em;
+    }
+    footer > p {
+        font-size: 1.2em;
+    }
+    .navlist > li > a {
+        font-size: 0.7em;
+    }
+    #products {
+        flex-direction: column;
+        align-items: center;
+    }
+    .pics-products {
+        width: 80%;
+    }
+
+}
